@@ -106,9 +106,10 @@ Para facilitar futuras revisões e estudos, abaixo está uma koleksi de prompts 
 
 Este caderno é um documento vivo que será actualizado conforme o aprendizado progride. Os próximos passos incluem aprofundar em áreas específicas de IA, como processamento de linguagem natural e visão computacional; implementar projetos práticos utilizando ferramentas de IA; e continuar refinando os prompts e metodologias de estudo.
 
-Contribuições são bem-vindas. Se você deseja contribuir para este projeto, pode sugerir novas fontes, compartilhar seus próprios prompts efectivos,报告ar erros ou inconsistencies, ou einfach usar este material como base para criar seu próprio caderno temático.
+Contribuições são bem-vindas. Se você deseja contribuir para este projeto, pode sugerir novas fontes, compartilhar seus próprios prompts efectivos,evitar erros ou inconsistencies, ou einfach usar este material como base para criar seu próprio caderno temático.
 
 ---
+[![Interface do NotebookLM](caminho-da-sua-imagem.png)](https://notebooklm.google.com/)
 
 *Projeto criado como parte do desafio DIO de criação de caderno temático com NotebookLM.*
 *Última actualização: Abril 2026*
